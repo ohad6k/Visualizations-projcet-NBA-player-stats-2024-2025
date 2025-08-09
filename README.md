@@ -57,9 +57,13 @@ Dataset
 
 You can interact with the live dashboard here:
   Dashboard 1 : https://public.tableau.com/app/profile/ohad.krispin/viz/ExplorePlayerPerformanceOverTimeDashboard/Dashboard1?publish=yes
+  
   Dashboard 2 : https://public.tableau.com/app/profile/ohad.krispin/viz/PlayerEfficiencyByRoleDashboard/Dashboard2?publish=yes
+  
   Dashboard 3 : https://public.tableau.com/app/profile/ohad.krispin/viz/TeamMetricDashboard/Dashboard3?publish=yes
+  
   Dashboard 4 : https://public.tableau.com/app/profile/ohad.krispin/viz/GameScoreDistributionDashboard/Dashboard4?publish=yes
+  
   Dashboard 5 : https://public.tableau.com/app/profile/ohad.krispin/viz/PlayerShootingDashboard/Dashboard5?publish=yes
 
 
